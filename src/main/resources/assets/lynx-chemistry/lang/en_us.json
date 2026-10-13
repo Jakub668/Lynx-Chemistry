@@ -1,8 +1,10 @@
 {
   "item.lynx-chemistry.sulfur": "Sulfur",
   "item.lynx-chemistry.carbon": "Carbon",
-  "item.lynx-chemistry.iron": "iron",
-  "item.lynx-chemistry.silicon": "silicon",
-  "item.lynx-chemistry.copper": "copper",
-  "item.lynx-chemistry.oxygen": "oxygen_tube"
+  "item.lynx-chemistry.iron": "Iron",
+  "item.lynx-chemistry.silicon": "Silicon",
+  "item.lynx-chemistry.copper": "Copper",
+  "item.lynx-chemistry.oxygen": "Oxygen_tube",
+  "item.lynx-chemistry.tube": "Tube",
+  "item.lynx-chemistry.air_separator": "Air_separator"
 }

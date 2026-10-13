@@ -2,16 +2,16 @@
 	"schemaVersion": 1,
 	"id": "lynx-chemistry",
 	"version": "${version}",
-	"name": "Lynx-Chemistry",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"name": "Lynx Chemistry",
+	"description": "Open-source chemistry mod for Minecraft 1.21.4 (Fabric). Explore elements, create chemical compounds, and master advanced scientific mechanics!",
 	"authors": [
-		"Me!"
+		"Jakub"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/lynx-chemistry",
+		"sources": "https://github.com/Jakub668/Lynx-Chemistry"
 	},
-	"license": "CC0-1.0",
+	"license": "GPL-3.0",
 	"icon": "assets/lynx-chemistry/icon.png",
 	"environment": "*",
 	"entrypoints": {

@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "north": "lynx-chemistry:block/air_separator_front",
+    "south": "lynx-chemistry:block/air_separator_back",
+    "west": "lynx-chemistry:block/air_separator_left",
+    "east": "lynx-chemistry:block/air_separator_right",
+    "up": "lynx-chemistry:block/air_separator_top",
+    "down": "lynx-chemistry:block/air_separator_bottom",
+    "particle": "lynx-chemistry:block/air_separator_front"
+  }
+}
