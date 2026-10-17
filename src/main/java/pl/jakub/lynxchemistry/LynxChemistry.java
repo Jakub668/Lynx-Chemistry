@@ -24,6 +24,25 @@ public class LynxChemistry implements ModInitializer {
 		ModItems.COPPER.toString();
 		ModItems.OXYGEN_TUBE.toString();
 		ModItems.TUBE.toString();
+		ModItems.ARGON_TUBE.toString();
+		ModItems.CARBON_DIOXIDE_TUBE.toString();
+		ModItems.HAZE_TUBE.toString();
+		ModItems.NITROGEN_TUBE.toString();
+		ModItems.OZONE_TUBE.toString();
+		ModItems.WATER_VAPOR_TUBE.toString();
+		ModItems.ALUMINIUM.toString();
+		ModItems.COKE.toString();
+		ModItems.GOLD.toString();
+		ModItems.LEAD.toString();
+		ModItems.LITHIUM.toString();
+		ModItems.MAGNESIUM.toString();
+		ModItems.NICKEL.toString();
+		ModItems.PHOSPHORUS.toString();
+		ModItems.SILVER.toString();
+		ModItems.TIN.toString();
+		ModItems.TITANIUM.toString();
+		ModItems.URANIUM.toString();
+		ModItems.ZINC.toString();
 
 
 		LOGGER.info("LynxChemistry initialized");

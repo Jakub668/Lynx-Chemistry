@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "lynx-chemistry:item/haze_tube"
+  }
+}
